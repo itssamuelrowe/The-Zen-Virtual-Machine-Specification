@@ -11,6 +11,6 @@
 ## Chapter 4: Entity Loader Module
 ## Chapter 5: Entity Linker Module
 ## Chapter 6: Entity Initializer Module
-## Chapter 7: Instructions
+## Chapter 7: Instruction Set
 ## Chapter 8: Internals of the Zen Compiler - Case Study 1
 ## Chapter 9: Internals of the Zen Virtual Machine - Case Study 2
