@@ -13,12 +13,14 @@ nop
 ```
 
 ## Operand Stack
-**Before**  
+****Before**  
+**  
 ```
     ...
 ```
 
-**After**
+****After**  
+**
 ```
     ...
 ```

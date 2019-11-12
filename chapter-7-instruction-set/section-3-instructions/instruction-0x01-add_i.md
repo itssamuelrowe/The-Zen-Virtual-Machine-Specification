@@ -21,12 +21,14 @@ add_i
 ```
 
 ## Operand Stack
-**Before**  
+****Before**  
+**  
 ```
     ..., value1, **value2**  
 ```
 
-**After**
+****After**  
+**
 ```
     ..., **result**  
 ```
