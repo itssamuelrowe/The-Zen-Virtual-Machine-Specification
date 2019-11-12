@@ -10,6 +10,11 @@ only the 32-bits from the Least Significant Bit (LSB).
 
 Further, an overflow never raises an exception.
 
+## Byte Code
+```
+0x01
+```
+
 ## Format
 ```
 add_i
@@ -18,12 +23,12 @@ add_i
 ## Operand Stack
 **Before**  
 ```
-    ..., value1, value2
+    ..., value1, **value2**  
 ```
 
 **After**
 ```
-    ..., result
+    ..., **result**  
 ```
 
 ## Operands
