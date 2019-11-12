@@ -13,7 +13,8 @@ nop
 ```
 
 ## Operand Stack
-****Before**  
+******Before**  
+**  
 **  
 ```
     ...
