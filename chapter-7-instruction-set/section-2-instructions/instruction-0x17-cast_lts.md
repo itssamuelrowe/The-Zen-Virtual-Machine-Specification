@@ -28,6 +28,6 @@ cast_lts
 **value**  
     A 64-bit integer value. It is popped off the operand stack.  
 **result**  
-    A 32-bit {@code integer} value derived from converting the specified
+    A 32-bit integer` value derived from converting the specified
     64-bit integer value to 16-bit integer value. The sign is extended to
     a 32-bit integer before it is pushed onto the operand stack.
