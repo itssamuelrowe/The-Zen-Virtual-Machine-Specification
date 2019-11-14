@@ -1,9 +1,9 @@
 # cast_dtl
 
-Convert a `double` value to a {@code long} value.
+Convert a `double` value to a `long` value.
 
 The following cases should be carefully observed:
- * A NaN value is always converted to {@code 0}.
+ * A NaN value is always converted to `0`.
  * A finite value is rounded to an integer value using IEEE 754 round
    towards zero mode.
  * A negative value of very large magnitude or negative infinity is
@@ -41,5 +41,5 @@ cast_dl
     A 64-bit `double` value. It is popped off the operand stack.  
 **result**  
     A 64-bit integer value derived from converting the specified
-    `double` value to {@code long} value. It is pushed onto
+    `double` value to `long` value. It is pushed onto
     the operand stack.
