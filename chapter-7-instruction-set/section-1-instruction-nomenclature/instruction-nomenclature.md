@@ -5,7 +5,7 @@
 name_[_modifier_][wide][array][sign][primitive_type][index]
 ```
 
-**Modifier** 
+**Modifier**  
 A modifier is local to the instruction. It indicates the modified primary
 operation the instruction performs. This part is rarely seen in the ZVM
 instruction set.
